@@ -1,2 +1,3 @@
 # mittelfeld.gitub.io
-Stellung der Obejkte im Mittelfeld
+Stellung der Objekte im Mittelfeld
+Übungsaufgaben
